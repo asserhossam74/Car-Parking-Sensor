@@ -393,29 +393,12 @@ Pin assignments can be modified in the respective header files:
 
 *Figure 2: LCD displaying real-time distance measurement in centimeters during normal operation*
 
-### Critical Proximity Warning
-
-![Stop Warning Display](docs/images/stop_warning.png)
-
-*Figure 3: System in critical warning state with LCD showing "Stop" message, all LEDs flashing, and buzzer active (distance ≤ 5cm)*
 
 ### LED Indicator Patterns
 
 ![LED Pattern States](docs/images/led_patterns.png)
 
-*Figure 4: Different LED activation patterns corresponding to various distance ranges*
-
-### Circuit Schematic
-
-![Circuit Diagram](docs/images/circuit_schematic.png)
-
-*Figure 5: Detailed circuit schematic showing all component connections and pin assignments*
-
-### System in Operation
-
-![Hardware Implementation](docs/images/hardware_setup.png)
-
-*Figure 6: Physical hardware setup demonstrating the complete parking sensor system*
+*Figure 3: Different LED activation patterns corresponding to various distance ranges*
 
 ---
 ## Connect With Me
